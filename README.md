@@ -6,7 +6,7 @@ Me considero entusiasta da tecnologia, sendo hora desenvolvedor, hora arquiteto,
 
 Aqui você vai encontrar meus repositórios de testes e aprendizados. 
 
-Se estiver procurando algo mais educativo e estruturado, talvez queira dar uma olhada nos repositórios da Tchê Code, pois eu colocarei lá o conteúdo gerado para o Canal do Youtube/Twitch.
+Talvez também queira dar uma olhada nos repositórios da Tchê Code, onde coloco o conteúdo gerado para o Canal do Youtube.
 
 << Me perdoem se ainda não acharam conteúdo lá, juro que o canal sai ainda este ano hehe >>
 
