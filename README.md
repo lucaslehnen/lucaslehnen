@@ -29,14 +29,6 @@ Vamos fortalecer a rede no Linkedin também!
         <img width="450px" src="https://github-readme-stats.vercel.app/api/?username=lucaslehnen&show_icons=true&title_color=2AF&icon_color=fff&text_color=FFF&bg_color=151515&locale=pt-br"/>
         </td>
     </tr>   
-    <tr>
-        <td>
-        <img width="400px" src="https://wakatime.com/share/@lucaslehnen/51af83f9-1d42-4f56-aa9b-79bf5698e747.svg" />
-        </td>
-        <td>
-        <img width="450px" src="https://wakatime.com/share/@lucaslehnen/d42a0cd3-2aa9-446e-b29b-1c2939d33595.svg"/>
-        </td>
-    </tr>   
 </table>
 
 
